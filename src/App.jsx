@@ -5,7 +5,7 @@ function App() {
  
 
   return (
-    <main className="h-screen max-w-4xl mx-auto flex items-center flex-col my-20">
+    <main className="h-screen bg-gray-50 max-w-4xl mx-auto flex items-center flex-col py-20">
       <SvgComponent/>
     </main>
   )
